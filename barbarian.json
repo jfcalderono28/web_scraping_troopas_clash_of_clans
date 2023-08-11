@@ -1,0 +1,105 @@
+{
+    "name": "Barbarian",
+    "url": "/wiki/Barbarian",
+    "stats": {
+        "0": {
+            "Level": "1",
+            "Damage per Second": "8",
+            "Damage per Attack": "8",
+            "Hitpoints": "45",
+            "Research Cost": "N/A",
+            "Research Time": "N/A",
+            "Laboratory Level Required": "N/A"
+        },
+        "1": {
+            "Level": "2",
+            "Damage per Second": "11",
+            "Damage per Attack": "11",
+            "Hitpoints": "54",
+            "Research Cost": "20,000",
+            "Research Time": "2h",
+            "Laboratory Level Required": "1"
+        },
+        "2": {
+            "Level": "3",
+            "Damage per Second": "14",
+            "Damage per Attack": "14",
+            "Hitpoints": "65",
+            "Research Cost": "60,000",
+            "Research Time": "5h",
+            "Laboratory Level Required": "3"
+        },
+        "3": {
+            "Level": "4",
+            "Damage per Second": "18",
+            "Damage per Attack": "18",
+            "Hitpoints": "85",
+            "Research Cost": "200,000",
+            "Research Time": "12h",
+            "Laboratory Level Required": "5"
+        },
+        "4": {
+            "Level": "5",
+            "Damage per Second": "23",
+            "Damage per Attack": "23",
+            "Hitpoints": "105",
+            "Research Cost": "650,000",
+            "Research Time": "1d",
+            "Laboratory Level Required": "6"
+        },
+        "5": {
+            "Level": "6",
+            "Damage per Second": "26",
+            "Damage per Attack": "26",
+            "Hitpoints": "125",
+            "Research Cost": "1,400,000",
+            "Research Time": "1d 12h",
+            "Laboratory Level Required": "7"
+        },
+        "6": {
+            "Level": "7",
+            "Damage per Second": "30",
+            "Damage per Attack": "30",
+            "Hitpoints": "160",
+            "Research Cost": "2,100,000",
+            "Research Time": "2d 12h",
+            "Laboratory Level Required": "8"
+        },
+        "7": {
+            "Level": "8",
+            "Damage per Second": "34",
+            "Damage per Attack": "34",
+            "Hitpoints": "205",
+            "Research Cost": "2,800,000",
+            "Research Time": "3d",
+            "Laboratory Level Required": "9"
+        },
+        "8": {
+            "Level": "9",
+            "Damage per Second": "38",
+            "Damage per Attack": "38",
+            "Hitpoints": "230",
+            "Research Cost": "5,000,000",
+            "Research Time": "6d",
+            "Laboratory Level Required": "10"
+        },
+        "9": {
+            "Level": "10",
+            "Damage per Second": "42",
+            "Damage per Attack": "42",
+            "Hitpoints": "250",
+            "Research Cost": "14,000,000",
+            "Research Time": "13d",
+            "Laboratory Level Required": "12"
+        },
+        "10": {
+            "Level": "11",
+            "Damage per Second": "45",
+            "Damage per Attack": "45",
+            "Hitpoints": "270",
+            "Research Cost": "16,000,000",
+            "Research Time": "14d",
+            "Laboratory Level Required": "13"
+        }
+    }
+}
